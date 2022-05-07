@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvinagres
-- 👀 I’m interested in music, audio
+- 👀 I’m interested in music, audio, AI
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any audio related project 
+- 💞️ I’m looking to collaborate on any audio or AI related project 
 - 📫 How to reach me ...
 
 <!---
