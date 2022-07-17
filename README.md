@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, audio, AI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any audio or AI related project 
-- 📫 How to reach me ...
+- 📫 dvinagres.git@gmail.com
 
 <!---
 dvinagres/dvinagres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
